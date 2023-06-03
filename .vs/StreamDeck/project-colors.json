@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b80715ab-1a87-497a-ab96-6c6bb7f11a26": {
+      "ProjectGuid": "b80715ab-1a87-497a-ab96-6c6bb7f11a26",
+      "DisplayName": "StreamDeck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

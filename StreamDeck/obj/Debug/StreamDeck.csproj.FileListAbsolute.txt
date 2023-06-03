@@ -1,0 +1,14 @@
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\bin\Debug\StreamDeck.exe.config
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\bin\Debug\StreamDeck.exe
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\bin\Debug\StreamDeck.pdb
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.csproj.AssemblyReference.cache
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.Deck.resources
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.Properties.Resources.resources
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.csproj.GenerateResource.cache
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.csproj.CoreCompileInputs.cache
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.csproj.CopyComplete
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.exe
+C:\Users\Finley\Desktop\Coding\projects\StreamDeck\StreamDeck\obj\Debug\StreamDeck.pdb

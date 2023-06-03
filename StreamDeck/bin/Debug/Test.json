@@ -4,23 +4,23 @@
 	{
 		"Type":"url",
 		"Link":"https://www.desmos.com/calculator",
-		"Img":"C:/Users/Finley/Downloads/256x256bb.jpg"
-	},
-	{
-		"Type":"executable",
-		"Link":"C:/Users/Finley/Desktop/Games/War Thunder.url",
-		"Img":"C:/Users/Finley/Pictures/smollogo.png"
+		"Img":"256x256bb.jpg"
 	},
 	{
 		"Type":"url",
-		"Link":"https://www.desmos.com/calculator",
-		"Img":"C:/Users/Finley/Pictures/smollogo.png"
+		"Link":"https://www.twitch.tv/fitch_gamer_yt",
+		"Img":"smollogo.png"
+	},
+	{
+		"Type":"executable",
+		"Link":"C:/Users/Finley/Desktop/Streaming/OBS Studio.lnk",
+		"Img":"OBSLogo.png"
 	}
     ],
     [
 	{
-		"Type":"url",
-		"Link":"1234",
+		"Type":"link",
+		"Link":"page2.json",
 		"Img":"C:/Users/Finley/Pictures/smollogo.png"
 	},
 	{

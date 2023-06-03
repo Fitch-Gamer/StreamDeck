@@ -1,0 +1,56 @@
+{
+    "ButtonLoc": [
+      [
+      {
+          "Type":"url",
+          "Link":"https://www.desmos.com/calculator",
+          "Img":"smollogo.png"
+      },
+      {
+          "Type":"url",
+          "Link":"https://www.twitch.tv/fitch_gamer_yt",
+          "Img":"smollogo.png"
+      },
+      {
+          "Type":"executable",
+          "Link":"C:/Users/Finley/Desktop/Streaming/OBS Studio.lnk",
+          "Img":"smollogo.png"
+      }
+      ],
+      [
+      {
+          "Type":"link",
+          "Link":"page2.json",
+          "Img":"smollogo.png"
+      },
+      {
+          "Type":"url",
+          "Link":"1234",
+          "Img":"C:/Users/Finley/Pictures/smollogo.png"
+      },
+      {
+          "Type":"url",
+          "Link":"1234",
+          "Img":"C:/Users/Finley/Pictures/smollogo.png"
+      }
+      ],
+      [
+      {
+          "Type":"url",
+          "Link":"1234",
+          "Img":"C:/Users/Finley/Pictures/smollogo.png"
+      },
+      {
+          "Type":"url",
+          "Link":"1234",
+          "Img":"C:/Users/Finley/Pictures/smollogo.png"
+      },
+      {
+          "Type":"link",
+          "Link":"Test.json",
+          "Img":"C:/Users/Finley/Pictures/smollogo.png"
+      }
+      ]
+    ]
+  
+  }
